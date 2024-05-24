@@ -1,3 +1,2 @@
 # Plagiarism-Checker
-this is project submitted by Sai Tejaswi Ranadeep and tejeshwar reddy on Github using GIT
-the project is to check plagiarism in two text files
+This project is made to identify the plagiarism percentage between 2 files.
